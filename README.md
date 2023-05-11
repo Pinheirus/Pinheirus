@@ -7,7 +7,7 @@
 ##
 
 ![Pinheirus GitHub stats](https://github-readme-stats.vercel.app/api?username=Pinheirus&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pinheirus&layout=compact)](https://github.com/Pinheirus)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pinheirus&layout=compact&theme=radical)](https://github.com/Pinheirus)
 
 ## Tecnologias que eu uso no meu dia
 
